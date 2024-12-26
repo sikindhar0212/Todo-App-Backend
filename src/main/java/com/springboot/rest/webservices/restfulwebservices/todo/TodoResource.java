@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 import org.springframework.http.HttpStatus;
 
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = "https://my-todo-app-0212-b00cadab3fcf.herokuapp.com")
 @RestController
 public class TodoResource {
 
